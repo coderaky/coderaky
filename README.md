@@ -9,7 +9,7 @@
 
 
 [![Twitter: coderaky](https://img.shields.io/twitter/follow/coderaky?style=social)](https://twitter.com/coderaky)
-[![Linkedin: coderaky](https://img.shields.io/badge/-coderaky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/coderaky/)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: coderaky](https://img.shields.io/badge/-coderaky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/coderaky/)](https://www.linkedin.com/in/coderaky/)
 [![GitHub coderaky](https://img.shields.io/github/followers/coderaky?label=follow&style=social)](https://github.com/coderaky)
 
 
@@ -20,6 +20,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/coderaky) [Gmail](mailto:abhishekkumaryadavofficial@gmail.com)
 
+**<a href="http://coderaky.com" target="_blank">`coderaky.com`</a>**
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderaky" alt="coderaky" /> </p>
 
