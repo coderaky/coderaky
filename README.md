@@ -17,7 +17,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 - 🔭 I’m currently a CS student at MMMUT.
 - 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
-- 👯 I’m looking for a software development internship. 
+- 👯 I’m looking for a software development Roles. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/coderaky) [Gmail](mailto:abhishekkumaryadavofficial@gmail.com)
 
 **<a href="http://coderaky.com" target="_blank">`coderaky.com`</a>**
