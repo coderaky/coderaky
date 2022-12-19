@@ -4,7 +4,11 @@
 
 <h2>नमस्ते (Namaste)🙏🏻, I'm Abhishek! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>CS Student at <a href="http://www.mmmut.ac.in">MMMUT 🎓 </a> | Developer Student Club Lead <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
+<p><em> SDE@Amazon <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+<p><em>CS Graduated from <a href="http://www.mmmut.ac.in">MMMUT 🎓 </a> | Ex Google Developer Student Club Lead 
 </em></p>
 
 
@@ -13,11 +17,11 @@
 [![GitHub coderaky](https://img.shields.io/github/followers/coderaky?label=follow&style=social)](https://github.com/coderaky)
 
 
-I'm a computer science student who is passionate about writing code, solving problems, Data Structures and Algorithms, and building software.
+I'm passionate about writing code, solving problems, Data Structures and Algorithms, and building software and doing creative stuff.
 
-- 🔭 I’m currently a CS student at MMMUT.
-- 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
-- 👯 I’m looking for a software development Roles. 
+- 🔭 I’m SDE@ Amazon 
+- 📚 I Graduated in CS from MMMUT.
+- 👯 I’m up for a software development Roles and freelance works.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/coderaky) [Gmail](mailto:abhishekkumaryadavofficial@gmail.com)
 
 **<a href="http://coderaky.com" target="_blank">`coderaky.com`</a>**
