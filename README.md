@@ -8,21 +8,33 @@
 <p><em> SDE@Amazon <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<p><em>CS Graduated from <a href="http://www.mmmut.ac.in">MMMUT 🎓 </a> | Ex Google Developer Student Club Lead 
-</em></p>
-
-
-[![Twitter: coderaky](https://img.shields.io/twitter/follow/coderaky?style=social)](https://twitter.com/coderaky)
 [![Linkedin: coderaky](https://img.shields.io/badge/-coderaky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/coderaky/)](https://www.linkedin.com/in/coderaky/)
 [![GitHub coderaky](https://img.shields.io/github/followers/coderaky?label=follow&style=social)](https://github.com/coderaky)
+[![Twitter: coderaky](https://img.shields.io/twitter/follow/coderaky?style=social)](https://twitter.com/coderaky)
 
 
-I'm passionate about writing code, solving problems, Data Structures and Algorithms, and building software and doing creative stuff.
 
-- 🔭 I’m SDE@ Amazon 
-- 📚 I Graduated in CS from MMMUT.
-- 👯 I’m up for a software development Roles and freelance works.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/coderaky) [Gmail](mailto:abhishekkumaryadavofficial@gmail.com)
+<h3>Intro:</h3>
+
+Hi, I'm Abhishek.
+
+I am currently, working as an SDE@Amazon.
+
+I'm Up for SDE Roles and working on Interesting Side Projects.
+
+<h3>My Profile KeyPoints:</h3>
+
+- 💻  Experience: SDE@Amazon, Ex-SDE & Intern @CloudPrompt.
+- 📚 Education: Graduated in CS from MMMUT, Gorakhpur.
+- 👯 Leadership Experience: Former Google Developer Student Club Lead, CodeChef Campus Event Lead and Google Cloud Platform Facilitator.
+- 🔭 Solved 1000+ Coding Problems on various Platforms.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/coderaky) [Gmail](mailto:coderakyofficial@gmail.com)
+
+
+<h3>Interest: </h3>
+
+I have a huge interest in Problem Solving, Data Structure and Algorithms, System Design and Architecture, Front-End Dev, and UX/UI.
+I love to develop & design new stuff in a creative way. I'm passionate about writing code, solving problems, Data Structures and Algorithms, and building software and doing creative stuff.
 
 **<a href="http://coderaky.com" target="_blank">`coderaky.com`</a>**
 </br>
@@ -104,22 +116,25 @@ I'm passionate about writing code, solving problems, Data Structures and Algorit
 </p>
 </h1>
 
+<!--
 ## Support me
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
--->
+
 <p align="center">
   <a href="https://www.patreon.com/coderaky" target="_blank">
     <img width="18%" alt="Check my Patreon" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-patreon.png"/>
   </a>
-  <!-- <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=YUTBBKXR2XCPJ" target="_blank">
-      <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/> -->
+  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=YUTBBKXR2XCPJ" target="_blank">
+      <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/> 
   </a>
   <a href="https://www.buymeacoffee.com/coderaky" target="_blank">
       <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
   </a>
 </p>
+-->
 
 ---
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<!-- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> -->
+<em><b>I love discussing with different people on tech topics, </b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
